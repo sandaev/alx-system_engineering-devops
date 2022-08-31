@@ -5,3 +5,4 @@ ls long format
 list more files
 I love numbers
 my first dir in tmp
+Betty in my first dir
