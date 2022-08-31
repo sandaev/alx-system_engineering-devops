@@ -7,3 +7,4 @@ I love numbers
 my first dir in tmp
 Betty in my first dir
 Delete Betty
+Bye bye dir
