@@ -4,3 +4,4 @@ Return to home dir
 ls long format
 list more files
 I love numbers
+my first dir in tmp
