@@ -9,3 +9,4 @@ Betty in my first dir
 Delete Betty
 Bye bye dir
 Back to the future
+List long files
