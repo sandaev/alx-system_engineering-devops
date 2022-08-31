@@ -3,3 +3,4 @@ Displays content list of current dir
 Return to home dir
 ls long format
 list more files
+I love numbers
