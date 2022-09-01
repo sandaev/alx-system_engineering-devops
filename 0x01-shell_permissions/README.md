@@ -8,3 +8,4 @@ Empty file
 Everybody
 James Bond
 John Doe
+10 Mirror permission
