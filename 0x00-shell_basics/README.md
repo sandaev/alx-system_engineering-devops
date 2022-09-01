@@ -10,3 +10,6 @@ Delete Betty
 Bye bye dir
 Back to the future
 List long files
+Type of file
+create softlink
+Copy html files
