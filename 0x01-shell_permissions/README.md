@@ -3,3 +3,4 @@
 3 User groups
 4 Change onwership
 Empty file
+6 Grant execute right
