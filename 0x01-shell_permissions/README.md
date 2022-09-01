@@ -7,3 +7,4 @@ Empty file
 7 multiple permission
 Everybody
 James Bond
+John Doe
