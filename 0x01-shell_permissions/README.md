@@ -9,3 +9,4 @@ Everybody
 James Bond
 John Doe
 10 Mirror permission
+12 Directories permission
