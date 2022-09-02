@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp --dereference vincent:staff _hello
+chgrp -h vincent:staff _hello
